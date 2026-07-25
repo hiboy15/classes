@@ -1,17 +1,17 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Classes"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "class-pp"
 
 #your name
-author: "You"
+author: "Hiboy15"
 
 #the fully qualified main class of the mod
 main: "example.ExampleJavaMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "more classes and use class-pp for required stuff"
 
 #the mod version
 version: 1.0
